@@ -2,7 +2,7 @@ rstms-ehandler
 ==============
 
 
-![Image](https://img.shields.io/github/license/rstms/rstms_ehandler)
+![Image](https://img.shields.io/github/license/rstms/rstms-ehandler)
 
 ![Image](https://img.shields.io/pypi/v/rstms_ehandler.svg)
 
